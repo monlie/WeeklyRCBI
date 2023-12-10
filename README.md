@@ -29,6 +29,8 @@ Typst 有 LaTex 一样强大的内容样式分离能力，同时还具备 Markdo
 
 ## 使用
 如果你向我一样很懒，可以直接用 Typst 官方提供的在线编辑器：[https://typst.app/](https://typst.app/) 只需要把项目里的所有文件都拖上去即可运行。
+
 如果你比我勤快，可以在本地部署 Typst。别担心，Typst 是“下一代排版系统”，不会像 LaTex 一样动辄占据几个 G 的空间。事实上，Typst 只有几十 M。
+
 有任何疑问应该第一时间阅读 Typst 中文教程：[https://typst-doc-cn.github.io/docs/tutorial/](https://typst-doc-cn.github.io/docs/tutorial/)
 
